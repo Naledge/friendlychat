@@ -1,2 +1,0 @@
-# friendlychat
-friendlychat Webapp
